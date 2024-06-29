@@ -1,4 +1,3 @@
-```markdown
 # Console-based Monopoly Game
 
 ## Table of Contents
