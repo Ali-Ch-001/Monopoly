@@ -30,8 +30,8 @@ This is a console-based implementation of the classic board game Monopoly. The g
 
 ## Usage
 
-   Step 1: Make Sure Terminal is at Size 172x40.
-   Step 2: Keep All The Files As It IS In a Single Folder.
-   Step 3: Navigate to Monopoly Folder from the terminal
-   Step 4: Run Make Command from the terminal.
-   Step 5: Enjoy The Game.
+- Step 1: Ensure your terminal window is set to a size of 172x40.
+- Step 2: Keep all the files in the repository as they are in a single folder.
+- Step 3: Navigate to the Monopoly folder from the terminal:
+- Step 4: Run the make command from the terminal to compile the game.
+- Step 5: Enjoy the game! Run the compiled executable
