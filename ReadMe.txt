@@ -20,42 +20,22 @@ This is a console-based implementation of the classic board game Monopoly. The g
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ali-Ch-001/Monopoly.git
-   ```
-2. Navigate to the project directory:
-   ```bash
+
+2.	Navigate to the project directory:
    cd Monopoly
-   ```
 
-## Usage
-1. Ensure your terminal window is set to a size of 172x40.
-2. Keep all the files in the repository as they are in a single folder.
-3. Navigate to the Monopoly folder from the terminal:
-   ```bash
-   cd path/to/monopoly
-   ```
-4. Run the `make` command from the terminal to compile the game:
-   ```bash
-   make
-   ```
-5. Enjoy the game! Run the compiled executable:
-   ```bash
-   ./monopoly
-   ```
+## usage
 
-## Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or improvements, please create an issue or submit a pull request.
+Step 1 : Make Sure Terminal is at Size 172x40.
 
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Description of your changes"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-branch
-   ```
-5. Create a new pull request.
+Step 2 : Keep All The Files As It IS In a Single Folder.
+
+Step 3 : Navigate to Monopoly Folder from the terminal
+
+Step 4 : Run Make Command from the terminal.
+
+Step 5 : Enjoy The Game.
+
+
+
+
