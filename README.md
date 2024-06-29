@@ -11,7 +11,7 @@ This is a console-based implementation of the classic board game Monopoly. The g
 
 # Image 
 
-!(https://github.com/Ali-Ch-001/Monopoly/assets/108975862/c562d1ea-67f2-41f0-86fc-0db561544a3f)
+![](https://github.com/Ali-Ch-001/Monopoly/assets/108975862/c562d1ea-67f2-41f0-86fc-0db561544a3f)
 
 
 ## Features
